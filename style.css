@@ -261,6 +261,7 @@ footer {
   height: 24px;
   background: none;
   border: none;
+  display: none;
 }
 .hamburger-top,
 .hamburger-middle,
@@ -406,4 +407,9 @@ footer {
     margin-right: 0;
     margin-bottom: 10px;
   }
+  .hamburger {
+    display: block;
+  }
 }
+
+
